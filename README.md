@@ -1,3 +1,5 @@
+Forked in order to perform a Coverity Scan on the repo
+==
 jq
 ==
 
